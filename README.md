@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamedmehr04&label=Profile%20views&color=0e75b6&style=flat" alt="hamedmehr04" /> </p>
 
-- 🌱 I’m currently learning **advanced html/css and**
+- 🌱 I’m currently learning **advanced html/css **
 
 - 📫 How to reach me **hamedmehr2004@gmail.com**
 
